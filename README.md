@@ -6,6 +6,10 @@ Practicing JavaScript
 
 [multiplesOf3and5](./src/multiples35.md): Multiples of 3 and 5.
 
+[evenFibo](./src/evenFibo.md): Even Fibonacci Numbers.
+
+[largestPrimeFactor](./src/largestPrimeFactor.md): Largest prime factor.
+
 ## Development Workflow
 
 ```
