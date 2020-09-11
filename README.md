@@ -4,7 +4,7 @@ Practicing JavaScript
 
 ## Problems
 
-[OddOccurrencesInArray](./OddOccurrencesInArray/README.md): Element with odd number of occurrances in an array.
+[multiplesOf3and5](./src/multiples35.md): Multiples of 3 and 5.
 
 ## Development Workflow
 
