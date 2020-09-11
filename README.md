@@ -10,6 +10,8 @@ Practicing JavaScript
 
 [largestPrimeFactor](./src/largestPrimeFactor.md): Largest prime factor.
 
+[largestPalindrom](./src/largestPalindrom.md): Largest palindrome product of n digits number.
+
 ## Development Workflow
 
 ```

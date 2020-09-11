@@ -16,4 +16,12 @@ describe("fiboEvenSum", () => {
   it("fiboEvenSum(1000)", () => {
     expect(fiboEvenSum(1000)).toEqual(798);
   });
+
+  it("fiboEvenSum(100000)", () => {
+    expect(fiboEvenSum(100000)).toEqual(60696);
+  });
+
+  it("fiboEvenSum(4000000)", () => {
+    expect(fiboEvenSum(4000000)).toEqual(4613732);
+  });
 });
