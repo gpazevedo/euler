@@ -4,18 +4,20 @@ Practicing JavaScript
 
 ## Problems
 
-[multiplesOf3and5](./src/multiples35.md): Multiples of 3 and 5.
+[Problem 1](./src/multiples35/multiples35.md): Multiples of 3 and 5.
 
-[evenFibo](./src/evenFibo.md): Even Fibonacci Numbers.
+[Problem 2](./src/evenFibo/evenFibo.md): Even Fibonacci Numbers.
 
-[largestPrimeFactor](./src/largestPrimeFactor.md): Largest prime factor.
+[Problem 3](./src/largestPrimeFactor/largestPrimeFactor.md): Largest prime factor.
 
-[largestPalindrom](./src/largestPalindrom.md): Largest palindrome product of n digits number.
+[Problem 4](./src/largestPalindrom/largestPalindrom.md): Largest palindrome product of n digits number.
+
+[Problem 5](./src/smallestMultiple/smallestMultiple.md): Smallest multiple.
 
 ## Development Workflow
 
 ```
 $ yarn test problem     # TDD with Unit Tests for the problem
-$ yarn test:coverage       # TDD Unit Test coverage
+$ yarn test:coverage    # TDD Unit Test coverage
 $ yarn start problem    # Runs the program problem
 ```
